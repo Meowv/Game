@@ -17,3 +17,5 @@
 8	中国象棋 https://meowv.github.io/Game/8
 
 9	神经猫 https://meowv.github.io/Game/9
+
+10 飞行游戏 https://meowv.github.io/Game/10
