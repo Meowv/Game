@@ -4,6 +4,8 @@
 
 2	2048 https://meowv.github.io/Game/2
 
+![image](2/2048.apk.png)
+
 3	一个都不能死 https://meowv.github.io/Game/3
 
 4	吃西瓜大赛 https://meowv.github.io/Game/4
